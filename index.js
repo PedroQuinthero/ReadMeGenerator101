@@ -9,7 +9,7 @@ const questions = [
     "Provide a brief but detailed description of your project:",
     "What are the installation instructions?",
     "How is the project used?",
-    "What are the contribution guidelins?",
+    "What are the contribution guidelines?",
     "What are the test instructions?",
     "Choose a license for your project (MIT, GPL, Apache):"
 ];
