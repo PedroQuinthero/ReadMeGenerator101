@@ -13,5 +13,13 @@
   },
   "keywords": [],
   "devDependencies": {},
-  "description": ""
+  "description": "dfgd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroQuinthero/ReadMeGenerator101.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PedroQuinthero/ReadMeGenerator101/issues"
+  },
+  "homepage": "https://github.com/PedroQuinthero/ReadMeGenerator101#readme"
 }

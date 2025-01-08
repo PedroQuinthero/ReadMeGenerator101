@@ -27,7 +27,7 @@ function writeToFile(fileName, data) {
     });
 }
 
-//Function to write README file if successful below
+
 
 
 // TODO: Create a function to initialize app
