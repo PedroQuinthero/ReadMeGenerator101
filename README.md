@@ -1,7 +1,8 @@
-# Readme Generator
+# kasdklfjads 
   
 ## Description
-this project will make it easy to create a readme for the client accumulating all information needed from the developers 
+kl;adsfjasdjf 
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +13,21 @@ this project will make it easy to create a readme for the client accumulating al
 - [Questions](#questions)
 
 ## Installation
-Fill out all of the questions briefly but with plenty of details
+adsfasdfa
 
 ## Usage
-In the beginning stages of development to create a guideline 
+;lkasdfja 
 
 
 ## License
-This project is licensed under the MIT license.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
   
 
 ## Contributing
-Follow the prompts and request details like licensing information
+;lkasdjf
 
 ## Tests
-Ensure the readme Generator works prior to submitting for grading
+aad odifa dalasdifn a ladkn o  nnlakdfn io 
 
