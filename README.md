@@ -1,7 +1,7 @@
-# kasdklfjads 
+# Readme Generator
   
 ## Description
-kl;adsfjasdjf 
+Here is the best place to five an overall idea of your project. 
 
 
 ## Table of Contents
@@ -13,10 +13,10 @@ kl;adsfjasdjf
 - [Questions](#questions)
 
 ## Installation
-adsfasdfa
+Here we will have specific instructions regarding potential installs for example 'npm i'
 
 ## Usage
-;lkasdfja 
+it created a table of contents and instructions regarding the vision of your project
 
 
 ## License
@@ -26,8 +26,8 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
   
 
 ## Contributing
-;lkasdjf
+follow the prompts provided, that will request details like licensing 
 
 ## Tests
-aad odifa dalasdifn a ladkn o  nnlakdfn io 
+any testing required prior to deployment will go here to advise the developers 
 
